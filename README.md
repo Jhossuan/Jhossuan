@@ -1,5 +1,5 @@
 # Holaaaa! 👋 #
-## Me presento, soy **Jhossuan**, un Front End Developer Junior autodidacta, Colombiano. ##
+🎈Me presento, soy **Jhossuan**, un Front End Developer Junior autodidacta.
 
 
 <!--
