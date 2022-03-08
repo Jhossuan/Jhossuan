@@ -1,4 +1,6 @@
-### Hi there 👋
+#Holaaaa! 👋#
+Me presento, soy **Jhossuan**, un Front End Developer Junior autodidacta, Colombian 🇨🇴
+
 
 <!--
 **Jhossuan/Jhossuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
