@@ -1,7 +1,8 @@
 # Holaaaa! 👋 #
-🎈Me presento, soy **Jhossuan**, un Front End Developer Junior autodidacta. <br /><br />
-asdasdjo
-
+🎈Me presento, soy **Jhossuan**, un Front End Developer Junior autodidacta.
+<br /><br />
+## 👉 Mis redes sociales ##
+GitHub: [Click Me!👀](https://github.com/Jhossuan)
 
 <!--
 **Jhossuan/Jhossuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
