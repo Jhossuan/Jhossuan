@@ -2,7 +2,9 @@
 🎈Me presento, soy **Jhossuan**, un Front End Developer Junior autodidacta.
 <br /><br />
 ## 👉 Mis redes sociales ##
-GitHub: [Click Me!👀](https://github.com/Jhossuan)
+GitHub: [Click Me!👀](https://github.com/Jhossuan) <br />
+Blog: [Click Me!🌐](https://jhossuan.github.io/Blog) <br />
+Twitter: [Click Me!🐥](https://twitter.com/Jhossuaf1)
 
 <!--
 **Jhossuan/Jhossuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
