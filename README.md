@@ -3,9 +3,11 @@
 
 
 - 🍃 Me gustar aprender y crear cosas nuevas
-- 📖 Actualmente trabajo y me desempeño en React / TypeScript
-- 🎨 Me gusta mucho la maquetación web
+- 📖 Actualmente trabajo y me desempeño en React / TypeScript / NodeJs / Express
+- 🎨 Me gustan los desafios creativos en el Frontend y abstractos en el Backend
 - 🐙 Experiencia laboral como desarrollador de 2 años y contando
+- ✏️ Comprometido con seguir educandome para ser un profesional integro y completo
+- ✅ Me apasiona el Backend y el DevOps.
 
 
 
