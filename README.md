@@ -5,7 +5,7 @@
 - 🍃 Me gustar aprender y crear cosas nuevas
 - 📖 Actualmente trabajo y me desempeño en React / TypeScript
 - 🎨 Me gusta mucho la maquetación web
-- 🐙 Experiencia laboral como desarrollador de 1 año y contando
+- 🐙 Experiencia laboral como desarrollador de 2 años y contando
 
 
 
