@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Jhossuan</h1>
-<h2 align="center">Full Stack Developer</h2>
+<h2 align="center">Desarrollador de Software</h2>
 
 
 - 🍃 Me gustar aprender y crear cosas nuevas
